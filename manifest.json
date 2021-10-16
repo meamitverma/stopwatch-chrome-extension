@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
 
-    "name": "Stopwatcch",
+    "name": "Stopwatch",
     "description": "Record your time or start the countdown using this chrome extension on the go.",
     "version": "1.0",
 
