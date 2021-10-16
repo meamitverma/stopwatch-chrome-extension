@@ -1,4 +1,5 @@
 # steps to use this extension
+- clone this project to your local system.
 - Go to your chrome extension setting (More tools > Extensions).
 - Enable developer mode (top right corner).
 - click on 'Load unpacked' button.
